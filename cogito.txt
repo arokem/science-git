@@ -1,3 +1,6 @@
 Cogito ergo sum
 Means something or other
 I think Descartes first noticed this.
+
+What happens when I enter some text in two files. 
+
