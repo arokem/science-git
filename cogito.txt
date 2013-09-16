@@ -1,4 +1,5 @@
-Cogito ergo summa
+# haha philosopher graffiti
+Cogito ergo nil
 Means something or other
 I think Descartes first noticed this.
 
